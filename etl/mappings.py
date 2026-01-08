@@ -4,7 +4,6 @@ COLUMN_ALIASES = {
         "full name",
         "customer name",
         "client name",
-        "username",
     ],
     "email": [
         "email",
@@ -20,17 +19,29 @@ COLUMN_ALIASES = {
         "contact",
         "contact number",
         "whatsapp",
-        "whatsapp number",
+    ],
+    "phone_alt": [
+        "phone2",
+        "alternate phone",
+        "alt phone",
+        "secondary phone",
     ],
     "age": [
         "age",
         "years",
-        "age (years)",
     ],
     "city": [
         "city",
         "location",
         "town",
+    ],
+    "salary": [
+        "salary",
+        "income",
+        "ctc",
+        "monthly salary",
+        "annual salary",
+        "package",
     ],
     "bio": [
         "bio",
